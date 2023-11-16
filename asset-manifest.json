@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TheCleverIdiott/thecleveridiott.github.io/static/css/main.b45e8d5f.css",
+    "main.js": "/TheCleverIdiott/thecleveridiott.github.io/static/js/main.b3fb574a.js",
+    "static/js/209.a105a705.chunk.js": "/TheCleverIdiott/thecleveridiott.github.io/static/js/209.a105a705.chunk.js",
+    "static/js/625.20cf3148.chunk.js": "/TheCleverIdiott/thecleveridiott.github.io/static/js/625.20cf3148.chunk.js",
+    "static/media/about.md": "/TheCleverIdiott/thecleveridiott.github.io/static/media/about.5de7722042efd49e6c9e.md",
+    "index.html": "/TheCleverIdiott/thecleveridiott.github.io/index.html",
+    "main.b45e8d5f.css.map": "/TheCleverIdiott/thecleveridiott.github.io/static/css/main.b45e8d5f.css.map",
+    "main.b3fb574a.js.map": "/TheCleverIdiott/thecleveridiott.github.io/static/js/main.b3fb574a.js.map",
+    "209.a105a705.chunk.js.map": "/TheCleverIdiott/thecleveridiott.github.io/static/js/209.a105a705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45e8d5f.css",
+    "static/js/main.b3fb574a.js"
+  ]
+}
